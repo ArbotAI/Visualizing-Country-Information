@@ -2,7 +2,6 @@
   "name": "country-info-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ArbotAI.github.io/Visualizing-Country-Information",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
@@ -16,6 +15,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
+  "homepage": "https://ArbotAI.github.io/Visualizing-Country-Information",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
